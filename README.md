@@ -1,2 +1,3 @@
 # hello-world
-this is a test project that a bird first time created
+Hi humans!
+ hubot here,I like java
